@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/mern-auth-template.git"
+    "url": "https://github.com/khushikumarigupta14/mern-auth-template.git"
   },
   "author": "Khushi Kumari",
   "license": "ISC",
@@ -22,5 +22,16 @@
     "User authentication",
     "JWT"
   ],
-  "description": "A basic user authentication system implemented in the MERN stack. This project serves as a template for other applications."
+  "description": "A basic user authentication system implemented in the MERN stack. This project serves as a template for other applications.",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
