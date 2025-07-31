@@ -1,0 +1,26 @@
+{
+  "name": "mern-auth-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/mern-auth-template.git"
+  },
+  "author": "Khushi Kumari",
+  "license": "ISC",
+  "keywords": [
+    "MERN stack",
+    "Node.js",
+    "Express.js",
+    "Mongodb",
+    "User authentication",
+    "JWT"
+  ],
+  "description": "A basic user authentication system implemented in the MERN stack. This project serves as a template for other applications."
+}
